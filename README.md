@@ -20,10 +20,10 @@ I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years of experie
 
 ## 🌟 Fun Facts
 **I Love:**
-- 💡 Solving complex technical challenges, learning new technologies, and sharing knowledge.
-- 🚀 Optimizing cloud infrastructure for performance and scalability
-- 🔧 Automating workflows to improve operational efficiency
-- 📊 Monitoring and incident response to ensure system reliability
+ 💡 Solving complex technical challenges, learning new technologies, and sharing knowledge.
+ 🚀 Optimizing cloud infrastructure for performance and scalability
+ 🔧 Automating workflows to improve operational efficiency
+ 📊 Monitoring and incident response to ensure system reliability
 
 
 ## 📈 GitHub Stats
@@ -34,7 +34,7 @@ I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years of experie
 ![Profile Views](https://komarev.com/ghpvc/?username=stevenodu&color=blue&style=flat-square)
 
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
