@@ -4,17 +4,18 @@ References:
 - https://github.com/ikatyang/emoji-cheat-sheet = For emoji reference
 - https://shields.io/badges => For badges and stickers
 - https://github.com/Dantechdevs => The inspiration for this bio design
+- https://github.com/alohe/avatars
 -->
 
 
 # Hi There 👋
-I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years of experience in DevOps, incident management, security, and cloud solutions..
+I'm Stephen Oduor, a seasoned Cloud Engineer with over 8 years of experience in DevOps, incident management, security, and cloud solutions...
 
 ## 📫 Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/stevenodu)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/Gaurez_) 
 
 
-## 💻 Tech Stack: 🛠️
+## 💻 Tech Stack 🛠️
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-232F3E?logo=mircrosoft-azure&logoColor=white&style=flat-square) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)\
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)\
@@ -37,5 +38,4 @@ I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years of experie
 
 
 ## ✍️ Random Dev Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
