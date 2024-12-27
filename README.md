@@ -26,7 +26,7 @@ I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years of experie
 - 📊 Monitoring and incident response to ensure system reliability
 
 
-## ⚡GitHub Stats
+## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=stevenodu)](https://git.io/streak-stats)
 
@@ -36,5 +36,5 @@ I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years of experie
 
 # ✍️ Random Dev Quote
 
-### 🖋️ Random Dev Quote
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
