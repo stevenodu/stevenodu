@@ -23,7 +23,7 @@ I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years of experie
 
 
 ## 🌟 Fun Facts
-**I Love:**
+**I Love:** \
  💡 Solving complex technical challenges, learning new technologies, and sharing knowledge.\
  🚀 Optimizing cloud infrastructure for performance and scalability\
  🔧 Automating workflows to improve operational efficiency\
