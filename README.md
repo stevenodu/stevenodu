@@ -23,13 +23,14 @@ Hi there! I'm Stephen Oduor Otieno, a seasoned Cloud Engineer with over 8 years 
 - Skill 3
 
 ## 💻 Tech Stack:
-- Cloud Platforms: AWS, GCP
+ AWS, GCP
 - Languages: Python, PHP, JavaScript
 - Tools: Datadog, Terraform, Docker, Kubernetes
 
 ## 💻 Tech Stack:
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)  
-- ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)  
+- Cloud Platforms:
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)  
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)  
 - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)  
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)  
 - ![ITIL](https://img.shields.io/badge/-ITIL-8A2BE2?style=flat-square)  
