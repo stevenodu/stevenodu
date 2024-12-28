@@ -1,5 +1,6 @@
 <!--
 **stevenodu/stevenodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal profile
 References:
 - https://github.com/ikatyang/emoji-cheat-sheet = For emoji reference
 - https://shields.io/badges => For badges and stickers
