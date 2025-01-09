@@ -34,7 +34,7 @@ I'm Stephen Oduor, a seasoned Cloud Engineer with over 8 years of experience in 
 ## 📈 GitHub Stats
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=stevenodu&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=stevenodu&theme=black-ice)](https://git.io/streak-stats)\
+[![GitHub Streak](https://streak-stats.demolab.com?user=stevenodu&theme=hacker)](https://git.io/streak-stats)\
 ![Profile Views](https://komarev.com/ghpvc/?username=stevenodu&color=blue&style=flat-square)
 
 
