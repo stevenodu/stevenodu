@@ -6,6 +6,8 @@ References:
 - https://shields.io/badges => For badges and stickers
 - https://github.com/Dantechdevs => The inspiration for this bio design
 - https://github.com/alohe/avatars
+- https://github.com/DenverCoder1/github-readme-streak-stats => for streak stats
+- https://github-readme-streak-stats.herokuapp.com/demo/ 
 -->
 
 
@@ -34,7 +36,7 @@ I'm Stephen Oduor, a seasoned Cloud Engineer with over 8 years of experience in 
 ## 📈 GitHub Stats
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=stevenodu&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=stevenodu&theme=hacker)](https://git.io/streak-stats)\
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenodu&theme=rose-pine)](https://git.io/streak-stats)\
 ![Profile Views](https://komarev.com/ghpvc/?username=stevenodu&color=blue&style=flat-square)
 
 
