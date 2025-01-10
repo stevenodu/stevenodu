@@ -33,10 +33,11 @@ I'm Stephen Oduor, a seasoned Cloud Engineer with over 8 years of experience in 
  🔧 Automating workflows to improve operational efficiency\
  📊 Monitoring and incident response to ensure system reliability
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=stevenodu&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenodu&theme=rose-pine)](https://git.io/streak-stats)\
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenodu&theme=rose-pine)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenodu&theme=rose-pine)
 ![Profile Views](https://komarev.com/ghpvc/?username=stevenodu&color=blue&style=flat-square)
 
 
