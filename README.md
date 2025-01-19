@@ -19,7 +19,7 @@ References:
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stephen+Oduor)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+seasoned+Cloud+Engineer;I+have+8+years+of+experience+DevOps+incident+management+security+cloud+solutions)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=217397&width=435&height=100&lines=My+Name+is+Stephen+Oduor;A+seasoned+Cloud+Engineer+with+over+8+years+of+experience+in;I+have+expertise+in+DevOps%2C+Incident+Management%2C+Solutions+Architect+and+Cloud+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=217397&width=435&height=100&lines=My+Name+is+Stephen+Oduor;8%2B+years+of+Experience;Expertise+in+DevOps%2C+Incident+Management;Solutions+Architect+%26+Cloud+Security)](https://git.io/typing-svg)
 
 ## 📫 Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/stevenodu)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/Gaurez_) 
