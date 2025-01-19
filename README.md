@@ -8,6 +8,7 @@ References:
 - https://github.com/alohe/avatars
 - https://github.com/DenverCoder1/github-readme-streak-stats => for streak stats
 - https://github-readme-streak-stats.herokuapp.com/demo/ 
+- https://www.youtube.com/watch?v=maoXtlb8t44 ==> video demo for streaks
 -->
 
 
@@ -37,7 +38,7 @@ I'm Stephen Oduor, a seasoned Cloud Engineer with over 8 years of experience in 
 <!-- This is the badge section. Testing using secrets stored in the repo variables -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=stevenodu&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenodu&theme=rose-pine)](https://git.io/streak-stats) -->
-[![GitHub Streak](./assets/streak-stats.svg)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight-zeta.vercel.app?user=stevenodu&theme=duskfox)](https://git.io/streak-stats)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stevenodu&color=blue&style=flat-square)
