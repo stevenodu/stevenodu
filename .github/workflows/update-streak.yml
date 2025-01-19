@@ -1,0 +1,30 @@
+name: Update Streak Badge
+
+on:
+  schedule:
+    - cron: '* * * * *'  # Runs every minute
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Fetch streak stats
+        env:
+          GITHUB_API_TOKEN: ${{ secrets.STREAK_API_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GITHUB_API_TOKEN" \
+          -o streak-stats.svg \
+          "https://github-readme-streak-stats.herokuapp.com?user=stevenodu&theme=rose-pine"
+
+      - name: Commit and push updated streak badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mv streak-stats.svg assets/streak-stats.svg  # Store the SVG in an 'assets' folder
+          git add assets/streak-stats.svg
+          git commit -m "Update streak stats badge"
+          git push
