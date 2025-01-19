@@ -16,7 +16,7 @@ References:
 
 # Hi There 👋
 <!-- I'm Stephen Oduor, a seasoned Cloud Engineer with over 8 years of experience in DevOps, incident management, security, and cloud solutions... -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stephen+Oduor;A+seasoned+Cloud+Engineer;I+have+8+years+of+experience+DevOps+incident+management+security+cloud+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stephen+Oduor)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+seasoned+Cloud+Engineer;I+have+8+years+of+experience+DevOps+incident+management+security+cloud+solutions)](https://git.io/typing-svg)
 
