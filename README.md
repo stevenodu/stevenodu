@@ -34,7 +34,7 @@ I'm Stephen Oduor, a seasoned Cloud Engineer with over 8 years of experience in 
  📊 Monitoring and incident response to ensure system reliability
 
 ## 📈 GitHub Stats:
-
+<!-- This is the badge section. Testing using secrets stored in the repo variables -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=stevenodu&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevenodu&theme=rose-pine)](https://git.io/streak-stats) -->
 [![GitHub Streak](PLACEHOLDER_BADGE_URL)](https://git.io/streak-stats)
