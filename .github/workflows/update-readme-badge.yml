@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight (UTC). Adjust the schedule as needed.
+    - cron: '* * * * *' # Runs every minute.
 
 jobs:
   update-badge:
