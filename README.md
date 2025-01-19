@@ -9,6 +9,8 @@ References:
 - https://github.com/DenverCoder1/github-readme-streak-stats => for streak stats
 - https://github-readme-streak-stats.herokuapp.com/demo/ 
 - https://www.youtube.com/watch?v=maoXtlb8t44 ==> video demo for streaks
+- https://github-readme-streak-stats-eight-zeta.vercel.app/demo/
+- https://vercel.com/stevenodus-projects/github-readme-streak-stats/settings/general 
 -->
 
 
