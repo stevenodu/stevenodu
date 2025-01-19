@@ -11,6 +11,7 @@ References:
 - https://www.youtube.com/watch?v=maoXtlb8t44 ==> video demo for streaks
 - https://github-readme-streak-stats-eight-zeta.vercel.app/demo/
 - https://vercel.com/stevenodus-projects/github-readme-streak-stats/settings/general 
+- https://readme-typing-svg.demolab.com/ Typing SVG
 -->
 
 
